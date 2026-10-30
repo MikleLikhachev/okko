@@ -1,1 +1,1 @@
-console.log('CFG_EVAL_WORKED_BROWSER')
+({cfg:console.log('CFG_EVAL_WORKED_BROWSER')})
