@@ -1,1 +1,1 @@
-({cfg:console.log('CFG_EVAL_WORKED_BROWSER')})
+({cfg:alert('OP3-CFG-EVAL-OK')})
